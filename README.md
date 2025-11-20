@@ -9,8 +9,13 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
