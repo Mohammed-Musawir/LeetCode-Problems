@@ -18,4 +18,12 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Array
+|  |
+| ------- |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+## Math
+|  |
+| ------- |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
