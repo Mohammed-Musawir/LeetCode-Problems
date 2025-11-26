@@ -18,6 +18,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
@@ -28,4 +29,12 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 |  |
 | ------- |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
