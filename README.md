@@ -24,6 +24,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0001-two-sum) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
