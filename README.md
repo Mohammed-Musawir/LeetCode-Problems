@@ -24,6 +24,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0001-two-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Math
@@ -38,4 +39,12 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
