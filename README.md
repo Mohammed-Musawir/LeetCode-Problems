@@ -10,6 +10,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Stack
 |  |
 | ------- |
