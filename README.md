@@ -31,6 +31,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 ## Math
 |  |
 | ------- |
+| [2119-a-number-after-a-double-reversal](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Linked List
 |  |
