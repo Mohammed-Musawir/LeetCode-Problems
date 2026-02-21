@@ -20,11 +20,13 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [1122-relative-sort-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0001-two-sum) |
+| [1122-relative-sort-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -48,5 +50,10 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 ## Sorting
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
