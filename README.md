@@ -33,6 +33,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Linked List
@@ -46,6 +47,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
