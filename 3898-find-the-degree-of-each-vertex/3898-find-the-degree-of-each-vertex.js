@@ -5,16 +5,11 @@
 var findDegrees = function(matrix) {
     let result = []
     for(let i = 0; i < matrix.length; i++){
-        let curr = matrix[i];
-        let count = 0;
-        for(let j = 0; j < curr.length; j++){
-            if(curr[j] === 1){
-                count++
-            }else{
-                continue;
-            }
+        let sum = 0;
+        for(let j = 0; j < matrix[i].length; j++){
+            sum += matrix[i][j];
         }
-        result.push(count)
+        result.push(sum)
     }
     return result
 };
