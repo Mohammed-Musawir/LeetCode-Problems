@@ -31,6 +31,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +64,12 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
