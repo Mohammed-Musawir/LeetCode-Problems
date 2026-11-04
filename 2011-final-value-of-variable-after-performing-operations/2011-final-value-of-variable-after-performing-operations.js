@@ -5,7 +5,7 @@
 var finalValueAfterOperations = function(operations) {
     let X = 0;
     for(let i = 0; i < operations.length; i++) {
-        if(operations[i].split('').includes('+')){
+        if(operations[i].includes('+')){
             X += 1
         }else{
             X -= 1
