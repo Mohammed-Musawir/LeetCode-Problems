@@ -10,6 +10,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -29,6 +30,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 | ------- |
 | [0001-two-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/0001-two-sum) |
 | [1122-relative-sort-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1122-relative-sort-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -64,6 +66,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Graph Theory
 |  |
