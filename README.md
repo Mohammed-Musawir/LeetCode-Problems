@@ -12,6 +12,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -33,6 +34,7 @@ This repository contains my LeetCode solutions, automatically uploaded via LeetH
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2942-find-words-containing-character](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mohammed-Musawir/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
